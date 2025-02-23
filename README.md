@@ -12,7 +12,7 @@ web scraper from Python
 pip install
 ```
 
-## Contributor
+## Contributors
 
 <a href="https://github.com/DeliciousBoy/web-scraper/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=DeliciousBoy/web-scraper" />
