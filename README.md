@@ -16,7 +16,7 @@ This project is a **customizable web scraper** that extracts data based on user-
 
 ```bash
 # Clone the repository
-git clone https://github.com/DeliciousBoy/web-scraper
+git clone https://github.com/DeliciousBoy/web-scraper.git
 cd web-scraper
 ```
 
