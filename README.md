@@ -1,6 +1,9 @@
-![GitHub License](https://img.shields.io/github/license/DeliciousBoy/web-scraper)
-![GitHub repo size](https://img.shields.io/github/repo-size/DeliciousBoy/web-scraper)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/playwright)
+
+<p align="center">
+  <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/playwright">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DeliciousBoy/web-scraper">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/DeliciousBoy/web-scraper">
+</p>
 
 # Web Scraper
 This project is a **customizable web scraper** that extracts data based on user-defined prompts and saves the results in various file formats. It is designed for flexibility, supporting different scraping techniques using **Playwright**, **BeautifulSoup**, and **HTTP requests.**
